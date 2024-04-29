@@ -193,7 +193,7 @@ int execute(int argc, char** argv, char** path) {
         printf("// cls -> Clears the terminal screen.\n"
             "// exit -> Exits the current command prompt.\n"
             "// call -> Executes an external file.\n"
-            "// rm -> Removes (deletes) files or directories.\n"
+            "// rm -> Removes (deletes) files.\n"
             "// rmdir -> Removes (deletes) directories.\n"
             "// ls -> Lists the files and directories in the current directory.\n"
             "// pwd -> Prints the current working directory.\n"
