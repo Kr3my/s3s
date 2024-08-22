@@ -18,7 +18,7 @@ int main(int argc, char* argv[]) {
     printf("- ");
 
     SetConsoleColor(LIGHT_MAGENTA_COLOR);
-    printf("s3s is an open source shell by NotSyscall for study purposes. (Use the 'help' command to see the list of commands)\n");
+    printf("s3s is an open source shell by Kr3my for study purposes. (Use the 'help' command to see the list of commands)\n");
 
     char* path = (char*)malloc(sizeof(char) * MAX_PATH);
     char buffer[MAX_PATH];
